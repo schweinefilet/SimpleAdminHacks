@@ -6,7 +6,7 @@
   <groupId>com.programmerdan.minecraft</groupId>
   <artifactId>SimpleAdminHacks</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.6</version>
+  <version>1.0.7</version>
   <name>SimpleAdminHacks</name>
   <url>https://github.com/DevotedMC/SimpleAdminHacks</url>
   
@@ -140,6 +140,12 @@
       <version>2.8.03</version>
       <scope>provided</scope>
     </dependency>
+    <depedency>
+      <groupId>com.github.devotedmc</groupId>
+      <artifactId>hiddenore</artifactId>
+      <verison>1.2.2</version>
+      <scope>provided</scope>
+    </depedency>
   </dependencies>
  
 </project>
